@@ -17,6 +17,7 @@ public class Exercicio {
 			for(int j=0; j<matriz[i].length; j++) {
 				matriz[i][j] = scan.nextInt();
 			}
+			System.out.println("teste");
 		}
 		
 		
